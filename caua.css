@@ -1,0 +1,58 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: cyan;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center 50px;
+    
+}
+strong{
+    color:rgb(2, 2, 59);
+}
+img{
+
+    align-items: center 50px;
+    height: 200px;
+    width: 200px;
+}
+div{
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+}
+
+h3{
+    color: red;
+    text-align:center;
+    border-width: 5px;
+    border-color: black;
+    border-style:solid;
+    font-size: 15px;
+}
+
+
+
+h2{
+color: blue;
+text-decoration: cornflowerblue;
+border-style: solid;
+border-color: black;
+border-width: 10px;
+
+}
+li{
+
+    color: blueviolet;
+}
+
+h4{
+color: black;
+border-width: 5px;
+border-color: black;
+border-style: solid;
+
+
+
+}
